@@ -1,0 +1,19 @@
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Temporary / office files
+~$*.docx
+~$*.pptx
+*.tmp
+*.bak
+
+# Local tool / cache files
+.vscode/
+.idea/
+node_modules/
+.env
+
+# Exported artifacts (store only approved/curated versions)
+exports/*
+!exports/.gitkeep
