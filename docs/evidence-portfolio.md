@@ -1,17 +1,32 @@
-# V&V Evidence Portfolio
+# V&V Evidence Pack (portfolio ของทีม)
 
-## ส่วนประกอบขั้นต่ำ
+> **ปรับ 20 ต.ค. 2569** · ภาคนี้ portfolio ของทีมคือ repo ที่สร้างจาก template และส่งด้วย Release `engse601-submit`
 
-1. **Project Context & Quality Goals** — ขอบเขต ผู้มีส่วนได้ส่วนเสีย เป้าหมายคุณภาพ
-2. **Test Basis** — requirement baseline / user stories / acceptance criteria / design artifacts
-3. **Requirement Review Sheet & RTM**
-4. **Test Plan** — scope, strategy, risks, roles, schedule, tools, entry/exit criteria
-5. **Test Case Suite & Test Data Sheet**
-6. **Non-functional Test Outline & Review Records**
-7. **Defect Log / Retest Evidence / Test Metrics**
-8. **Test Summary Report**
-9. **AI Use Declaration / Peer Review / Individual Reflection**
+## อยู่ที่ไหน
+
+- Template: https://github.com/se-rmutl/engse601-project-template (กด **Use this template** ตั้งเป็น **Public**)
+- หน้าเดียวที่รวมทุกงาน: `SUBMISSIONS.md` ในรากของ repo
+- ตัวอย่างที่ทำครบ (Team00 · Case X): https://github.com/se-rmutl/ENGSE601-Team00-CaseX-Example · ใช้ดูรูปแบบ **ห้ามคัดลอกข้อความ**
+
+## ส่วนประกอบที่ส่งจริงในภาคนี้
+
+| ส่วน | ไฟล์และตำแหน่ง | มาจาก |
+|---|---|---|
+| ความเสี่ยงและเส้นทางคุณภาพ | `WEEKS/week-01/` · `WEEKS/week-02/` | W01 · W02 |
+| ความต้องการที่ทดสอบได้ · Review Log · RTM · Gate A | `WEEKS/week-03/` · `WEEKS/week-04/` | W03 · W04 |
+| Requirement-to-Design Trace · Gate B | `WEEKS/week-05/` | W05 |
+| แผนทดสอบย่อ · Entry/Exit | `01-plan/S1-B_<TeamName>.pdf` | ใบงาน 1 ส่วน B |
+| ชุดกรณีทดสอบที่ผ่านการทบทวน | `02-test-design/S2-B_<TeamName>.pdf` | ใบงาน 2 ส่วน B |
+| ผลการรันจริงพร้อมหลักฐาน | `03-test-execution/` (`execution-report.md` · `tests/` · `evidence/`) | ใบงานรวม 3–4 ส่วน B1 |
+| หน้าที่และการใช้ AI | `TEAM.md` · `AI-LOG.md` | ใบงานรวม 3–4 ส่วน B3 |
+
+ไม่ต้องทำในภาคนี้: รายงานข้อบกพร่อง ทดสอบซ้ำ สรุปผล และคำตัดสินส่งมอบ (ครั้งที่ 4 · ใบงานรวม 3–4 ส่วน B2)
 
 ## แนวคิดการประเมิน
 
-เกณฑ์ประเมินเน้นคุณภาพของกระบวนการ ความสมเหตุสมผลของการตัดสินใจ ความครบถ้วนของหลักฐาน และความสามารถตรวจสอบย้อนกลับได้ ไม่ได้ให้คะแนนเพียงเพราะระบบมีฟีเจอร์ครบ
+เกณฑ์เน้นคุณภาพของกระบวนการ ความสมเหตุสมผลของการตัดสินใจ ความครบถ้วนของหลักฐาน และการตรวจสอบย้อนกลับได้ ไม่ได้ให้คะแนนเพียงเพราะระบบมีฟีเจอร์ครบ
+
+- ผลทดสอบต้องมาจากการรันจริง · รันไม่ได้ให้เขียน `Not Executed` พร้อมเหตุผล ได้คะแนนตามเกณฑ์
+- ทีมที่บันทึก `Fail` ตามจริงพร้อมหลักฐาน ไม่เสียคะแนนเพราะผลไม่ผ่าน
+- แต่งผลหรือหลักฐาน ส่วนนั้นได้ 0
+- repo เป็น Public: ห้ามมีรหัสนักศึกษาและงานเดี่ยวส่วน A

@@ -1,5 +1,10 @@
 # สัปดาห์ที่ 2 — กระบวนการและแบบจำลองการทดสอบ
 
+> **ภาคการศึกษา 2569** · สัปดาห์นี้สอนและยกตัวอย่างด้วยกรณีศึกษา **RMUTL Smart Campus Resource Booking**  
+> งานกลุ่มของสัปดาห์นี้คือ **W02 Project Quality Route Map** · นับเข้า **จิตพิสัย (ทีมส่ง W02 ได้ 1 คะแนน)**  
+> ส่งใน repo ของทีมที่ `WEEKS/week-02/submission/W02_<TeamName>_Project-Quality-Route-Map_v1.pdf` ภายใน **ศุกร์ 23 ต.ค. 2569 23:59** · ดู [docs/deliverables.md](../../docs/deliverables.md)  
+> ขั้นตอนและเกณฑ์ที่ใช้จริงอยู่ใน `WEEKS/` ของ [template repo](https://github.com/se-rmutl/engse601-project-template) · เนื้อหาด้านล่างเป็นภาพรวมเดิมของสัปดาห์
+
 **หน่วย/บทเรียน:** หน่วย 1 / บทเรียน 1.2  
 **กิจกรรมหลัก:** Case Comparison: STLC / V-Model / Agile-DevOps  
 **ชิ้นงานหลัก:** Test Process Map

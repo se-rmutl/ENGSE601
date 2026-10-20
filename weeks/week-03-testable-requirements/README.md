@@ -1,5 +1,10 @@
 # สัปดาห์ที่ 3 — ความต้องการที่ทดสอบได้และเกณฑ์การยอมรับ
 
+> **ภาคการศึกษา 2569** · สัปดาห์นี้สอนและยกตัวอย่างด้วยกรณีศึกษา **RMUTL Smart Campus Resource Booking**  
+> งานกลุ่มของสัปดาห์นี้คือ **W03 Revised Critical Requirements** · นับเข้า **Gate A (5 คะแนน)**  
+> ส่งใน repo ของทีมที่ `WEEKS/week-03/submission/W03_<TeamName>_Revised-Critical-Requirements_v1.pdf` ภายใน **ศุกร์ 23 ต.ค. 2569 23:59** · ดู [docs/deliverables.md](../../docs/deliverables.md)  
+> ขั้นตอนและเกณฑ์ที่ใช้จริงอยู่ใน `WEEKS/` ของ [template repo](https://github.com/se-rmutl/engse601-project-template) · เนื้อหาด้านล่างเป็นภาพรวมเดิมของสัปดาห์
+
 **หน่วย/บทเรียน:** หน่วย 2 / บทเรียน 2.1  
 **กิจกรรมหลัก:** Workshop 1: From Requirements to Testable Requirements  
 **ชิ้นงานหลัก:** Testability Checklist

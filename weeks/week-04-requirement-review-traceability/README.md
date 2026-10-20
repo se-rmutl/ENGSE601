@@ -1,5 +1,10 @@
 # สัปดาห์ที่ 4 — Requirement Review และ Traceability
 
+> **ภาคการศึกษา 2569** · สัปดาห์นี้สอนและยกตัวอย่างด้วยกรณีศึกษา **RMUTL Smart Campus Resource Booking**  
+> งานกลุ่มของสัปดาห์นี้คือ **W04 SRS Review, RTM Lite และ Gate A** · นับเข้า **Gate A (10 คะแนน)**  
+> ส่งใน repo ของทีมที่ `WEEKS/week-04/submission/W04_<TeamName>_SRS-Review-and-RTM_v1.pdf` ภายใน **ศุกร์ 23 ต.ค. 2569 23:59** · ดู [docs/deliverables.md](../../docs/deliverables.md)  
+> ขั้นตอนและเกณฑ์ที่ใช้จริงอยู่ใน `WEEKS/` ของ [template repo](https://github.com/se-rmutl/engse601-project-template) · เนื้อหาด้านล่างเป็นภาพรวมเดิมของสัปดาห์
+
 **หน่วย/บทเรียน:** หน่วย 2 / บทเรียน 2.2  
 **กิจกรรมหลัก:** Workshop 2: Peer Requirement Review + AI-assisted Ambiguity Scan  
 **ชิ้นงานหลัก:** Review Sheet + RTM v1 + AI Use Declaration
